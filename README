@@ -1,0 +1,10 @@
+# Installation
+To get started, we create a conda environment from this dependency file `src/myenv.yml`.
+```bash
+conda env create -f ./src/myenv.yml 
+```
+
+Then active it with 
+```bash
+conda activate web
+```
