@@ -1,0 +1,18 @@
+name: web
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - sphinx
+  - numpy
+  - matplotlib
+  - pandas
+  - ase
+  - pip
+  - pip:
+      - furo
+      - murray
+      - myst-parser
+      - snakemake
+      - tqdm
