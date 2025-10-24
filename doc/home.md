@@ -1,4 +1,4 @@
-# Welcom to Gang Huang's website.
+# Welcome to Gang Huang's website.
 
 # About Me
 I am a faculty member at the School of Physics, Chengdu University of Technology. 
