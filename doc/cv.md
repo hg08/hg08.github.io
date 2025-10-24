@@ -2,34 +2,31 @@
 **Gang HUANG 黄刚**
 <!-- <img src='/images/about/dylan_circle.png' width='20%'> -->
 
-## Personal Data
-- 德国美因茨大学 理论物理，Staudinerg Weg 7, Mainz, Germany 55099
-- <hg08@lzu.edu.cn>
+- Johannes Gutenberg University, ，Staudinerg Weg 7, Mainz, Germany 55099
+- <huanggang@cdut.edu.cn>
 
 
-## 教学科研
-- 专业：**统计物理与计算机模拟**
-- 科研：**基于密度泛函理论的分子动力学模拟技术（DFTMD），非线性光谱理论计算（红外光谱、和频率光谱（SFG）计算**
+## Research field
+- **Statistical Physics**
+- includes: **DFT-MD，Nonlinear spectroscopy（SFG)**
 
 ## Education
-- **美因茨大学物理研究所 凝聚态物理理论**  2011.10 - 2015.12 
-    - 研究课题：气液界面的结构和非线性光谱计算
+- **PhD in Statistical Physics, Johannes Gutenberg University Mainz**  
 
-- **兰州大学物理科学与技术学院 统计物理与量子光学** 2008-2011 
-- **西华师范大学物理与电子信息学院 物理学** 2004-2008 
+- ** MSc in Statistical Physics and Quantum Optics, Lanzhou University**  
+- **BSc in Physics, China West Normal University** 
 
 ::: tip Work Experience
-- **兰州大学物理学 2007 级基地班、隆基班助教** （合作者：谭磊教授） 
-    - 热力学与统计物理 2009.2-2009.7；
-    - 量子力学 2009.9-2010.1 
-- **中国科学院近代物理研究所核理论组实习**
+- **Teaching Assistant for Undergraduate Studies at School of Physics and Technolgy, LZU**  
+    - Statistical Mechanics 2009.2-2009.7；
+    - Quantum Mechanics 2009.9-2010.1 
 
-- **美因茨大学核物理研究所研究生课程助教**
-    - 量子场论 （合作者： H.Meyer 教授） 2014.3-2014.8； 
-    - 密度泛函理论和应用 （合作者： M. Sulpizi 教授） 2013.3-2013.8 
+- **Teaching assitant for Graduate Studies at Institute for Physics, JGU, Mainz**
+    - Quantum Field Theory （Prof. H. Meyer） 2014.3-2014.8； 
+    - Density Functional Theory and its Applications （Prof. M. Sulpizi） 2013.3-2013.8 
 
-- **上海应用物理研究所水科学与技术研究室访问学者** 2015.12-2016.6 
-    - 研究课题: Ab initio 分子动力学模拟，表面和频率光谱计算 （合作者：方海平教授） 
+- **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
+    -  Ab initio MD，Theoretical compuation of SFG spectra 
 
 :::
 
