@@ -1,8 +1,6 @@
 # CV
 **Gang HUANG 黄刚**
 <!-- <img src='/images/about/dylan_circle.png' width='20%'> -->
-
-- Johannes Gutenberg University, ，Staudinerg Weg 7, Mainz, Germany 55099
 - <huanggang@cdut.edu.cn>
 
 
@@ -13,10 +11,10 @@
 ## Education
 - **PhD in Statistical Physics, Johannes Gutenberg University Mainz**  
 
-- ** MSc in Statistical Physics and Quantum Optics, Lanzhou University**  
+- **MSc in Statistical Physics and Quantum Optics, Lanzhou University**  
 - **BSc in Physics, China West Normal University** 
 
-::: tip Work Experience
+## Work Experience
 - **Teaching Assistant for Undergraduate Studies at School of Physics and Technolgy, LZU**  
     - Statistical Mechanics 2009.2-2009.7；
     - Quantum Mechanics 2009.9-2010.1 
@@ -28,7 +26,6 @@
 - **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
     -  Ab initio MD，Theoretical compuation of SFG spectra 
 
-:::
 
 ## Certificates
 - **Certificate from ColumbiaX**: CSMM.101x: Artificial Intelligence (AI) course of study offered by Columbia University, Sep 15, 2018，ID: 1327b54ff3494dd29bf30b57733118e4
@@ -41,6 +38,5 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 - Xing Liu, **Gang Huang**, Kuan-Kan Hu, Nan Sheng, Chuanshan Tian, Y. Ron Shen, Yu-Chieh Wen, Guosheng Shi*, and Haiping Fang, [Sharing of Na+ by Three −COO– Groups at Deprotonated Carboxyl-Terminated Self-Assembled Monolayer-Charged Aqueous Interface](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02065), J. Phys. Chem. C 122, 16,9111-9116, DOI:10.1021/acs.jpcc.8b02065, 2018
 - **G. Huang\***, [A derivation of Expressing Feynman propagator in terms of a 4- momentum integral](https://www.researchgate.net/publication/280720823_A_derivation_of_Expressing_Feynman_propagator_in_terms_of_a_4-momentum_integral), DOI:10.13140/RG.2.1.5081.0724, 2015
 
-## Invited Talks
+## Talks
 - **Structural and dynamical properties of water clusters with alkali nitrate and the water/vapor interface**，Deutsche Physikalische Gesellschaft， 2013.4， Regensburg 
-- **Machine learning in condensed matter physics**, CWNU，Nanchong，2018.10
