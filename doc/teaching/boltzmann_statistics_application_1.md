@@ -12,11 +12,19 @@ Z_1 = \sum_l \omega_l e^{-\beta\epsilon_l}.
 ```
 因这三部分（平动、振动和转动）的自由度相互独立，每一个振动、转动、平动组合都可以构成一个不同的量子态。故，总配分函数可以写成平动配分函数、振动配分函数与转动配分函数之积：
 ```{math}
-Z_1 = \sum_{\text t v r} \omega^t \omega^v \omega^r e^{-\beta\epsilon^\text{t} + \epsilon^\text{v} + \epsilon^\text{r}}
+Z_1 = \sum_{\text t v r} \omega^t \omega^v \omega^r e^{-\beta(\epsilon^\text{t} + \epsilon^\text{v} + \epsilon^\text{r} )}
 = Z_1^\text{t} + Z_1^\text{v} + Z_1^\text{r}.
 ```
 
-利用理想气体内能与总配分函数之关系，可导出：内能可表示为平动能、转动能与振动能之和。相应地，热容也就可以表示为平动热容、转动热容与振动热容之和。
+利用理想气体内能与总配分函数之关系，可导出：内能可表示为平动能、转动能与振动能之和:
+```{math}
+U = -N \frac{\partial}{\partial \beta}\ln Z_1  = U^\text{t} +  U^\text{v} + U^\text{r}. 
+```
+相应地，热容也就可以表示为平动热容、转动热容与振动热容之和:
+```{math}
+C_V = C_V^\text{t} +  C_V^\text{v} + C_V^\text{r}. 
+```
+
 分别计算平动、振动和转动对内能的贡献会发现如下结果。
 1. 平动能和平动热容的表达式与由经典统计的能量均分定理得到的结果一致。
 2. 由于双原子分子的振动特征温度是1000K这个量级，因此在常温范围，振动自由度对热容的贡献接近于0。其物理意义是：振子取得热运动能量而跃迁到激发态的概率很小。也就是说，几乎全部振子都冻结在基态。
