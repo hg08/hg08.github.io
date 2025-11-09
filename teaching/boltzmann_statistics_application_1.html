@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>玻尔兹曼统计之应用：理想气体的内能和热容 &#8212; Gang Huang 0.0.0 documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=d1102ebc" />
+    <link rel="stylesheet" type="text/css" href="../_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="../_static/alabaster.css?v=27fed22d" />
+    <script src="../_static/documentation_options.js?v=7026087e"></script>
+    <script src="../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="id1">
+<h1>玻尔兹曼统计之应用：理想气体的内能和热容<a class="headerlink" href="#id1" title="Link to this heading">¶</a></h1>
+<p>本节以双原子分子理想气体为例讲理想气体内能和热容的量子统计理论。</p>
+<p>暂不考虑原子内电子的运动。双原子分子的能量可表示为平动能、振动能和转动能之和:</p>
+<div class="math notranslate nohighlight">
+\[\epsilon = \epsilon^\text{t} + \epsilon^{v} + \epsilon^\text{r}.\]</div>
+<p>以<span class="math notranslate nohighlight">\(\omega^t\)</span>、<span class="math notranslate nohighlight">\(\omega^v\)</span>、<span class="math notranslate nohighlight">\(\omega^r\)</span>分别表示平动、振动、转动能级的简并度, 则配分函数<span class="math notranslate nohighlight">\(Z_1\)</span>可表示为：</p>
+<div class="math notranslate nohighlight">
+\[Z_1 = \sum_l \omega_l e^{-\beta\epsilon_l}.\]</div>
+<p>因这三部分（平动、振动和转动）的自由度相互独立，每一个振动、转动、平动组合都可以构成一个不同的量子态。故，总配分函数可以写成平动配分函数、振动配分函数与转动配分函数之积：</p>
+<div class="math notranslate nohighlight">
+\[Z_1 = \sum_{\text t v r} \omega^t \omega^v \omega^r e^{-\beta(\epsilon^\text{t} + \epsilon^\text{v} + \epsilon^\text{r} )}
+= Z_1^\text{t} + Z_1^\text{v} + Z_1^\text{r}.\]</div>
+<p>利用理想气体内能与总配分函数之关系，可导出：内能可表示为平动能、转动能与振动能之和:</p>
+<div class="math notranslate nohighlight">
+\[U = -N \frac{\partial}{\partial \beta}\ln Z_1  = U^\text{t} +  U^\text{v} + U^\text{r}. \]</div>
+<p>相应地，热容也就可以表示为平动热容、转动热容与振动热容之和:</p>
+<div class="math notranslate nohighlight">
+\[C_V = C_V^\text{t} +  C_V^\text{v} + C_V^\text{r}. \]</div>
+<p>分别计算平动、振动和转动对内能的贡献可得如下结果。</p>
+<ol class="arabic simple">
+<li><p>平动能和平动热容的表达式与由经典统计的能量均分定理得到的结果一致。
+平动自由能为</p></li>
+</ol>
+<div class="math notranslate nohighlight">
+\[Z_1^t = V(\frac{2\pi m}{h^2 \beta})^{3/2}\]</div>
+<p>可导出</p>
+<div class="math notranslate nohighlight">
+\[U^t = -N\frac{\partial}{\partial \beta}\ln Z_1^t = \frac{3}{2}NkT; C_V^t = \frac{3}{2}Nk. \]</div>
+<p>双原子分子中的两原子的相对振动，可以近似地看成线性谐振子。振子的能级为</p>
+<div class="math notranslate nohighlight">
+\[\epsilon_n = (n + 1/2) \hbar \omega, n = 0,1,2,\cdots\]</div>
+<p>振动配分函数为</p>
+<div class="math notranslate nohighlight">
+\[Z_1^v = \sum_{n=0}^{\infty} e^{-\beta\hbar\omega (n+1/2)},\]</div>
+<p>可导出</p>
+<div class="math notranslate nohighlight">
+\[Z_1^v = \frac{e^{-\frac{\beta\hbar\omega}{1}}}{1-e^{-\beta\hbar\omega}}.\]</div>
+<p>因此，振动对内能的贡献为</p>
+<div class="math notranslate nohighlight">
+\[U^v = -N\frac{\partial}{\partial\beta}\ln Z_1^v = \frac{N\hbar\omega}{2} + \frac{N\hbar\omega}{e^{\beta\hbar\omega}-1}.\]</div>
+<p>上式中第一项为零点能，第二项为温度为<span class="math notranslate nohighlight">\(T\)</span>时振子的热激发能.</p>
+<ol class="arabic simple" start="2">
+<li><p>由于双原子分子的振动特征温度是1000K这个量级，因此在常温范围，振动自由度对热容的贡献接近于0。其物理意义是：振子取得热运动能量而跃迁到激发态的概率很小。也就是说，几乎全部振子都冻结在基态。</p></li>
+<li><p>讨论双原子分子的转动时，需要区分这两个原子是同核还是异核这两种情况：同核双原子分子(如氢气、氧气等)和异核双原子分子（如NO,CO等）。双原子分子的转动能级可用转动量子数<span class="math notranslate nohighlight">\(l\)</span>表示出:</p></li>
+</ol>
+<div class="math notranslate nohighlight">
+\[\epsilon^\text{r} = \frac{l(l+1)\hbar^2}{2I}, l=0,1,2,\cdots\]</div>
+<p>$l$为转动量子数，转动能级的简并度为<span class="math notranslate nohighlight">\(2l+1\)</span>。
+知道了转动能级和简并度，就可以写出转动配分函数的表达式</p>
+<div class="math notranslate nohighlight">
+\[Z^{\text{r}}_1 = \sum_{l=0}^\infty (2l+1) e^{-\frac{l(l+1)\hbar^2}{2IkT}}.\]</div>
+<p>在此，引入与分子转动惯量相关的一个特征温度–转动特征温度$\theta_{\text{r}}$, 使得</p>
+<div class="math notranslate nohighlight">
+\[\frac{\hbar^2}{2I} = k\theta_{\text{r}}.\]</div>
+<p>在常温<span class="math notranslate nohighlight">\(T\)</span>下，<span class="math notranslate nohighlight">\(\theta_{\text{r}}/T &lt;&lt; 1\)</span>.
+于是，当转动量子数改变时，转动能级就可以近似看成是做连续变化的变量。这样，我们计算转动配分函数时，就可以用积分去代替其中的求和，并可以得到转动能等于<span class="math notranslate nohighlight">\(NkT\)</span>, 转动热容为$Nk$. 这正是经典统计能量均分定理的结果。
+这里的物理意义是：常温范围内，转动能级间距远远小于<span class="math notranslate nohighlight">\(kT\)</span>,因此转动能与<span class="math notranslate nohighlight">\(kT\)</span>之比值就可以看成是连续变量，量子统计与经典统计得到的转动热容相同。</p>
+<p>对于同核的双原子分子，我们需要考虑微观粒子全同性对分子转动状态的影响。分子的转动状态与两个原子核的自旋状态有关。我们以氢气为例。若两个氢核的自旋平行，则氢分子的转动量子数<span class="math notranslate nohighlight">\(l\)</span>只能取奇数；若两个氢核的自旋反平行，则氢分子的转动量子数<span class="math notranslate nohighlight">\(l\)</span>只能取偶数。前者，称为正氢(Ortho-H<span class="math notranslate nohighlight">\(_2\)</span>)，后者称为仲氢(Para-H<span class="math notranslate nohighlight">\(_2\)</span>), 如图1所示。这两类氢气基本不会发生相互转化。二者的比例分别约为3/4和1/4。
+这样，氢气的转动内能可以写为正氢和仲氢的转动内能项之和，系数分别为3/4和1/4。氢分子转动惯量小，因此其转动特征温度(85.4 K)较其他气体的要高。在温度远高于此特征温度的高温，氢分子处于转动量子数<span class="math notranslate nohighlight">\(l\)</span>较大的转动状态。
+这样，正氢的转动配分函数和仲氢的转动配分函数几乎相等，我们仍然可以得到转动热容为Nk。这与能量均分定理的结果一致。低温下，能量均分定理不再适用。</p>
+<p><img alt="Spin isomer H" src="../_images/spin_isomer_h.png" /></p>
+<p>电子对气体热容是否有明显贡献依赖于原子基态能级的自旋角动量与轨道角动量是否存在耦合。对单原子分子，在原子基态能级的自旋角动量或轨道角动量这二者之一为0时，原子的基态能级不存在精细结构。原子内电子的激发态与基态能量之差大体是eV这个量级。相应的特征温度为1千到1万K。
+因此，在一般温度下，热运动难以使电子跃迁到激发态，因此，电子被冻结到基态，故对热容没有贡献。反之，如果原子基态能级的自旋角动量与轨道角动量都不为0，则它们的耦合作用将导致基态能级的分裂，产生精细结构。例如氧原子的基态能级存在特征温度为230 K和320 K的能级分裂。在与此特征温度可比拟的温度下，电子运动对热容就有贡献。 双原子分子也有类似的情形。</p>
+<section id="reference">
+<h2>Reference<a class="headerlink" href="#reference" title="Link to this heading">¶</a></h2>
+<p>https://coderefinery.github.io/documentation/sphinx/</p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">Gang Huang</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../home.html">Welcome to Gang Huang’s website.</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../home.html#about-me">About Me</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../home.html#publications">Publications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../home.html#teaching-notes">Teaching Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../home.html#cv">CV</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2025, Gang Huang.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 8.2.3</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="../_sources/teaching/boltzmann_statistics_application_1.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
