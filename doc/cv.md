@@ -5,11 +5,10 @@
 
 
 ## Research field
-- **Statistical Physics**
-- includes: **DFT-MD，Nonlinear spectroscopy（SFG)**
+- **Statistical Physics**: My research areas mainly focus on the intersection of statistical physics, condensed matter physics, and machine learning, with an emphasis on the relationships among structure, dynamics, and function in complex systems. Specifically, my work covers the statistical physics mechanisms of deep neural networks, glassy and amorphous systems, granular matter, water and hydrate interface, and machine-learning-assisted molecular dynamics simulations.
 
 ## Education
-- **PhD in Statistical Physics, Johannes Gutenberg University Mainz**  
+- **PhD in Physics, Johannes Gutenberg University Mainz**  
 
 - **MSc in Statistical Physics and Quantum Optics, Lanzhou University**  
 - **BSc in Physics, China West Normal University** 
@@ -24,7 +23,7 @@
     - Density Functional Theory and its Applications （Prof. M. Sulpizi） 2013.3-2013.8 
 
 - **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
-    -  Ab initio MD，Theoretical compuation of SFG spectra 
+    -  Ab Initio MD，Theoretical compuation of SFG spectra 
 
 - **PostDoc Researcher at the Institute of Theoretical Physics, CAS** 2019.11-2025.1 
     -  Non-equilibrium Statistcial Physics 
@@ -34,11 +33,11 @@
 - **Certificate from ColumbiaX**: CSMM.101x: Artificial Intelligence (AI) course of study offered by Columbia University, Sep 15, 2018，ID: 1327b54ff3494dd29bf30b57733118e4
 
 ## Scientific Publications
-- Gang Huang, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), PRE. 2026, Sep, 10 
+- Gang Huang, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 2026
 
-- Gang Huang, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), JCTC. 2024, 20,20, 9107-9115 
+- Gang Huang, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024, 20, 20, 9107 
 - Jie Huang, **Gang Huang\***, and Shiben Li*, [A machine learning model to classify dynamic processes
-in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 2021, **Cover Article**
+in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 2021
 - Jie Huang, Shiben Li*, Xinghua Zhang*, and **Gang Huang**, [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), The Journal of Chemical Physics, 153 (12) 124902, 2020
 - Xing Liu, **Gang Huang**, Kuan-Kan Hu, Nan Sheng, Chuanshan Tian, Y. Ron Shen, Yu-Chieh Wen, Guosheng Shi*, and Haiping Fang, [Sharing of Na+ by Three −COO– Groups at Deprotonated Carboxyl-Terminated Self-Assembled Monolayer-Charged Aqueous Interface](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02065), J. Phys. Chem. C 122, 16,9111-9116, DOI:10.1021/acs.jpcc.8b02065, 2018
 - **G. Huang\***, [A derivation of Expressing Feynman propagator in terms of a 4- momentum integral](https://www.researchgate.net/publication/280720823_A_derivation_of_Expressing_Feynman_propagator_in_terms_of_a_4-momentum_integral), DOI:10.13140/RG.2.1.5081.0724, 2015
