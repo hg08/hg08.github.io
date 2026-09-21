@@ -37,7 +37,7 @@
 ## Scientific Publications
 - **GH**, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 2026 ([pdf](./_static/pdfs/publications/huang2026.pdf))
 
-- **GH**, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024, 20, 20, 9107 
+- **GH**, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024, 20, 20, 9107 ([pdf](https://pubs.acs.org/jctcce/article-pdf/20/20/9107/1769584/ct4c00457.pdf)) 
 
 - Mengyuan Qu, **GH**, Xinyi Liu, Xuechuan Nie, Chonghai Qi, Huabin Wang, Jun Hu, Haiping Fang, Yi Gao, Wei-Tao Liu, Joseph S. Francisco, Chunlei Wang, [Room temperature bilayer water structures on a rutile TiO 2 (110) surface: hydrophobic or hydrophilic?](./_static/pdfs/publications/qu-huang-liu2022.pdf) Chem. Sci., 13, 35, 10546 (2022) ([pdf](./_static/pdfs/publications/qu-huang-liu2022.pdf))
 
