@@ -1,4 +1,4 @@
-# CV
+# Curriculum Vitae
 **Gang HUANG 黄刚**
 <!-- <img src='/images/about/dylan_circle.png' width='20%'> -->
 - <huanggang@cdut.edu.cn>
@@ -14,19 +14,21 @@
 - **BSc in Physics, China West Normal University** 
 
 ## Work Experience
-- **Teaching Assistant for Undergraduate Studies at School of Physics and Technolgy, LZU**  
-    - Statistical Mechanics 2009.2-2009.7；
-    - Quantum Mechanics 2009.9-2010.1 
+- **Researcher at Department of Physics, Chengdu University of Technology**, 2025.3 - Today
+
+- **PostDoc Researcher at the Institute of Theoretical Physics, CAS** 2019.11-2025.1 
+    -  Non-equilibrium Statistcial Physics 
+
+- **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
+    -  Ab Initio MD，Theoretical compuation of SFG spectra 
 
 - **Teaching assitant for Graduate Studies at Institute for Physics, JGU, Mainz**
     - Quantum Field Theory （Prof. H. Meyer） 2014.3-2014.8； 
     - Density Functional Theory and its Applications （Prof. M. Sulpizi） 2013.3-2013.8 
 
-- **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
-    -  Ab Initio MD，Theoretical compuation of SFG spectra 
-
-- **PostDoc Researcher at the Institute of Theoretical Physics, CAS** 2019.11-2025.1 
-    -  Non-equilibrium Statistcial Physics 
+- **Teaching Assistant for Undergraduate Studies at School of Physics and Technolgy, LZU**  
+    - Statistical Mechanics 2009.2-2009.7；
+    - Quantum Mechanics 2009.9-2010.1 
 
 
 ## Certificates
