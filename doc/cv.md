@@ -50,5 +50,7 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 ## Talks
 
 - **[水界面有多厚？从界面氢键动力学计算](./_static/pdfs/talks/2025宁波_slides_水界面的氢键动力学.pdf)**，第八届全国统计物理与复杂系统学术会议， 2025.8.1，宁波
+- **[Depth-controlled glass transition in deep neural
+networks](./_static/pdfs/talks/2024_4_postdoc_Depth_controlled_glass_transitions_in_DNNs.pdf)**, Institute of Theoretical Physics, CAS, Beijing, 2024.4
 - **[Structural, dynamics and vibrational spectroscopy of Interfacial aqueous solutions](./_static/pdfs/talks/2022_June.pdf)**，Beijing Jiaotong University， 2022.6.3， Beijing
 - **Structural and dynamical properties of water clusters with alkali nitrate and the water/vapor interface**，Deutsche Physikalische Gesellschaft， 2013.4， Regensburg 
