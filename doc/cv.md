@@ -48,5 +48,5 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 - **G. Huang\***, [A derivation of Expressing Feynman propagator in terms of a 4- momentum integral](https://www.researchgate.net/publication/280720823_A_derivation_of_Expressing_Feynman_propagator_in_terms_of_a_4-momentum_integral), DOI:10.13140/RG.2.1.5081.0724, 2015
 
 ## Talks
-- **[Structural, dynamics and vibrational spectroscopy of Interfacial aqueous solutions](./static/pdfs/talks/2022_June.pdf)**，Beijing Jiaotong University， 2022.June 3， Beijing
+- **[Structural, dynamics and vibrational spectroscopy of Interfacial aqueous solutions](./_static/pdfs/talks/2022_June.pdf)**，Beijing Jiaotong University， 2022.June 3， Beijing
 - **Structural and dynamical properties of water clusters with alkali nitrate and the water/vapor interface**，Deutsche Physikalische Gesellschaft， 2013.4， Regensburg 
