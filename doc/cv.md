@@ -43,7 +43,7 @@
 
 - Jie Huang, **GH\***, and Shiben Li*, [A machine learning model to classify dynamic processes
 in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 2021
-- Jie Huang, Shiben Li*, Xinghua Zhang*, and **Gang Huang**, [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), J. Chem. Phys., 153 (12) 124902, 2020
+- Jie Huang, Shiben Li*, Xinghua Zhang*, and **GH**, [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), J. Chem. Phys., 153 (12) 124902, 2020
 
 - Xing Liu, **GH**, Kuan-Kan Hu, Nan Sheng, Chuanshan Tian, Y. Ron Shen, Yu-Chieh Wen, Guosheng Shi*, and Haiping Fang, [Sharing of Na+ by Three −COO– Groups at Deprotonated Carboxyl-Terminated Self-Assembled Monolayer-Charged Aqueous Interface](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02065), J. Phys. Chem. C 122, 16,9111-9116, DOI:10.1021/acs.jpcc.8b02065, 2018
 
