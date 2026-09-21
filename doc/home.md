@@ -14,6 +14,7 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 - [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), The Journal of Chemical Physics, 153 (12) 124902, 2020
 
 # Teaching Notes
+- [Statistical Mechanics](teaching/statistical_mechanics.md)
 - [玻尔兹曼统计之应用：理想气体的内能和热容](teaching/boltzmann_statistics_application_1.md)
 - [AI in Science Notes](teaching/ai_in_science_notes.md)
 

@@ -1,0 +1,1 @@
+- [玻尔兹曼统计之应用：理想气体的内能和热容](./statistical_mechanics/boltzmann_statistics_application_1.md)
