@@ -16,7 +16,7 @@
 ## Work Experience
 - **Researcher at Department of Physics, Chengdu University of Technology**, 2025.3 - Today
 
-- **PostDoc Researcher at the Institute of Theoretical Physics, CAS** 2019.11-2025.1 
+- **PostDoc Researcher at the Institute of Theoretical Physics, Chinese Academy of Sciences (CAS)** 2019.11-2025.1 
     -  Non-equilibrium Statistcial Physics 
 
 - **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
