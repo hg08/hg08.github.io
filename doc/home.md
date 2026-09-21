@@ -15,7 +15,7 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 
 # Teaching Notes
 - [玻尔兹曼统计之应用：理想气体的内能和热容](teaching/boltzmann_statistics_application_1.md)
-
+- [AI in Science Notes](teaching/ai_in_science_notes.md)
 
 # CV
 - [My CV](cv.md)

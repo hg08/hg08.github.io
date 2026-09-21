@@ -26,11 +26,16 @@
 - **Visiting Scholar at the Water Science Laboratory of Shanghai Institute of Applied Physics, CAS** 2015.12-2016.6 
     -  Ab initio MD，Theoretical compuation of SFG spectra 
 
+- **PostDoc Researcher at the Institute of Theoretical Physics, CAS** 2019.11-2025.1 
+    -  Non-equilibrium Statistcial Physics 
+
 
 ## Certificates
 - **Certificate from ColumbiaX**: CSMM.101x: Artificial Intelligence (AI) course of study offered by Columbia University, Sep 15, 2018，ID: 1327b54ff3494dd29bf30b57733118e4
 
 ## Scientific Publications
+- Gang Huang, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), PRE. 2026, Sep, 10 
+
 - Gang Huang, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), JCTC. 2024, 20,20, 9107-9115 
 - Jie Huang, **Gang Huang\***, and Shiben Li*, [A machine learning model to classify dynamic processes
 in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 2021, **Cover Article**
