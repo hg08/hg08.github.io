@@ -13,5 +13,5 @@
 
 ## 代码
 
-- [Pandas基础(PDF)](../_static/downloads/ai-in-science/pandas_basics_code.zip)
+- [Pandas Basics(En)](../_static/downloads/ai-in-science/pandas_basics_code.zip)
 
