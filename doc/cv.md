@@ -36,10 +36,15 @@
 - Gang Huang, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 2026
 
 - Gang Huang, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024, 20, 20, 9107 
+
+- Mengyuan Qu, **GH**, Xinyi Liu, Xuechuan Nie, Chonghai Qi, Huabin Wang, Jun Hu, Haiping Fang, Yi Gao, Wei-Tao Liu, Joseph S. Francisco, Chunlei Wang, [Room temperature bilayer water structures on a rutile TiO 2 (110) surface: hydrophobic or hydrophilic?](./_static/pdfs/publications/qu-huang-liu2022.pdf) Chem. Sci., 13, 35, 10546 (2022)
+
 - Jie Huang, **Gang Huang\***, and Shiben Li*, [A machine learning model to classify dynamic processes
 in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 2021
 - Jie Huang, Shiben Li*, Xinghua Zhang*, and **Gang Huang**, [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), The Journal of Chemical Physics, 153 (12) 124902, 2020
+
 - Xing Liu, **Gang Huang**, Kuan-Kan Hu, Nan Sheng, Chuanshan Tian, Y. Ron Shen, Yu-Chieh Wen, Guosheng Shi*, and Haiping Fang, [Sharing of Na+ by Three −COO– Groups at Deprotonated Carboxyl-Terminated Self-Assembled Monolayer-Charged Aqueous Interface](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02065), J. Phys. Chem. C 122, 16,9111-9116, DOI:10.1021/acs.jpcc.8b02065, 2018
+
 - **G. Huang\***, [A derivation of Expressing Feynman propagator in terms of a 4- momentum integral](https://www.researchgate.net/publication/280720823_A_derivation_of_Expressing_Feynman_propagator_in_terms_of_a_4-momentum_integral), DOI:10.13140/RG.2.1.5081.0724, 2015
 
 ## Talks
