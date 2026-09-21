@@ -33,7 +33,7 @@
 - **Certificate from ColumbiaX**: CSMM.101x: Artificial Intelligence (AI) course of study offered by Columbia University, Sep 15, 2018，ID: 1327b54ff3494dd29bf30b57733118e4
 
 ## Scientific Publications
-- Gang Huang, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 2026
+- **GH**, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 2026
 
 - **GH**, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024, 20, 20, 9107 
 
