@@ -6,6 +6,7 @@
 #### 玻尔兹曼统计、玻色统计和费米统计
 
 - [粒子运动状态的经典描述(pdf)](../_static/pdfs/statistical_mechanics/6-1.pdf)
+- [粒子运动状态的量子描述(pdf)](../_static/pdfs/statistical_mechanics/6-2.pdf)
 - [系统的微观运动状态的描述(pdf)](../_static/pdfs/statistical_mechanics/6-3.pdf)
 - [近独立粒子的最概然分布(pdf)](../_static/pdfs/statistical_mechanics/6_A4.pdf)
 - [玻尔兹曼统计(pdf)](../_static/pdfs/statistical_mechanics/7_A4.pdf)
