@@ -2,8 +2,9 @@
 
 # About Me
 I am a faculty member at the School of Physics, Chengdu University of Technology. 
-My research lies at the intersection of condensed matter physics and statistical physics.
-My primary research interests include the statistical physics mechanisms underlying deep neural networks (DNNs), the physical properties of liquids and glassy states, and the structure and dynamical behavior of interfacial water. In the study of DNNs, I employ tools and concepts from statistical mechanics to explore their design space, with a particular focus on integrating physical theories to gain a deeper understanding of network performance and learning dynamics. I am also interested in several emerging topics at the frontiers of quantum computing and non-equilibrium statistical physics.
+My research lies at the intersection of condensed matter physics and non-equilibrium statistical physics.
+My primary research interests include the statistical physics mechanisms underlying deep neural networks (DNNs), the physical properties of liquids and glassy states, and the structure and dynamical behavior of interfacial water. 
+In the study of DNNs, I employ tools and concepts from statistical mechanics to explore their design space, with a particular focus on integrating physical theories to gain a deeper understanding of network performance and learning dynamics. 
 
 # Recent Publications
 
