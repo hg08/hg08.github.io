@@ -18,7 +18,7 @@
 - [相空间、Liouville定理(pdf)](../_static/pdfs/statistical_mechanics/9_4A.pdf)
 - [相空间、Liouville定理(pdf)](../_static/pdfs/statistical_mechanics/9-1.pdf)
 - [微正则系综(pdf)](../_static/pdfs/statistical_mechanics/9-2.pdf)
-- [正则系综、距正则系综、结束语(pdf)](../_static/pdfs/statistical_mechanics/9-3.pdf)
+- [正则系综、巨正则系综、结束语(pdf)](../_static/pdfs/statistical_mechanics/9-3.pdf)
 
 
 
