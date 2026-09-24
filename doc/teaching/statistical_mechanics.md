@@ -1,7 +1,7 @@
 #### 导言
 
-- [统计物理导言(1)(pdf)](../_static/pdfs/statistical_mechanics/1-1.pdf)
-- [统计物理导言(2)(pdf)](../_static/pdfs/statistical_mechanics/1-2.pdf)
+- <a href="../_static/pdfs/statistical_mechanics/1-1.pdf" target="_blank" rel="noopener"> [统计物理导言(1)(pdf)]</a>
+- <a href="../_static/pdfs/statistical_mechanics/1-2.pdf" target="_blank" rel="noopener"> [统计物理导言(2)(pdf)]</a>
 
 #### 玻尔兹曼统计、玻色统计和费米统计
 
