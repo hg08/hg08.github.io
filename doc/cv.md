@@ -35,11 +35,11 @@
 - **Certificate from ColumbiaX**: CSMM.101x: Artificial Intelligence (AI) course of study offered by Columbia University, Sep 15, 2018，ID: 1327b54ff3494dd29bf30b57733118e4
 
 ## Scientific Publications
-- **GH**, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 114, 035309, 2026 ([pdf](./_static/pdfs/publications/huang2026.pdf))
+- **GH**, Lai Shun Chan, Hajime Yoshino, Ge Zhang*, Yuliang Jin*. [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 114, 035309, 2026 (<a href="./_static/pdfs/publications/huang2026.pdf" target="_blank" rel="noopener">[pdf]</a> 
 
 - **GH**, Jie Huang*. [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024, 20, 20, 9107 ([pdf](https://pubs.acs.org/jctcce/article-pdf/20/20/9107/1769584/ct4c00457.pdf)) 
 
-- Mengyuan Qu, **GH**, Xinyi Liu, Xuechuan Nie, Chonghai Qi, Huabin Wang, Jun Hu, Haiping Fang, Yi Gao, Wei-Tao Liu, Joseph S. Francisco, Chunlei Wang, [Room temperature bilayer water structures on a rutile TiO 2 (110) surface: hydrophobic or hydrophilic?](./_static/pdfs/publications/qu-huang-liu2022.pdf) Chem. Sci., 13, 35, 10546 (2022) ([pdf](./_static/pdfs/publications/qu-huang-liu2022.pdf))
+- Mengyuan Qu, **GH**, Xinyi Liu, Xuechuan Nie, Chonghai Qi, Huabin Wang, Jun Hu, Haiping Fang, Yi Gao, Wei-Tao Liu, Joseph S. Francisco, Chunlei Wang, <a href="./_static/pdfs/publications/qu-huang-liu2022.pdf" target="_blank" rel="noopener">[Room temperature bilayer water structures on a rutile TiO 2 (110) surface: hydrophobic or hydrophilic?]</a> Chem. Sci., 13, 35, 10546 (2022) (<a href="./_static/pdfs/publications/qu-huang-liu2022.pdf" target="_blank" rel="noopener">[pdf]</a> 
 
 - Jie Huang, **GH\***, and Shiben Li*, [A machine learning model to classify dynamic processes
 in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 2021
@@ -51,8 +51,8 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 
 ## Talks
 
-- **[水界面有多厚？从界面氢键动力学计算](./_static/pdfs/talks/2025宁波_slides_水界面的氢键动力学.pdf)**，第八届全国统计物理与复杂系统学术会议， 2025.8.1，宁波
-- **[Depth-controlled glass transition in deep neural
-networks](./_static/pdfs/talks/2024_4_postdoc_Depth_controlled_glass_transitions_in_DNNs.pdf)**, Institute of Theoretical Physics, CAS, Beijing, 2024.4
-- **[Structural, dynamics and vibrational spectroscopy of Interfacial aqueous solutions](./_static/pdfs/talks/2022_June.pdf)**，Beijing Jiaotong University， 2022.6.3， Beijing
+- <a href="./_static/pdfs/talks/2025宁波_slides_水界面的氢键动力学.pdf" target="_blank" rel="noopener">[水界面有多厚？从界面氢键动力学计算]</a>，第八届全国统计物理与复杂系统学术会议，2025.8.1，宁波
+- <a href="./_static/pdfs/talks/2024_4_postdoc_Depth_controlled_glass_transitions_in_DNNs.pdf" target="_blank" rel="noopener">[Depth-controlled glass transition in deep neural
+networks]</a>, Institute of Theoretical Physics, CAS, Beijing, 2024.4
+- <a href="./_static/pdfs/talks/2022_June.pdf" target="_blank" rel="noopener">[Structural, dynamics and vibrational spectroscopy of Interfacial aqueous solutions]</a>，Beijing Jiaotong University， 2022.6.3， Beijing
 - **Structural and dynamical properties of water clusters with alkali nitrate and the water/vapor interface**，Deutsche Physikalische Gesellschaft， 2013.4， Regensburg 
