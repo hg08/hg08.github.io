@@ -8,11 +8,11 @@ In the study of DNNs, I employ tools and concepts from statistical mechanics to 
 
 # Recent Publications
 
-- [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 2026
-- [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 2024
+- [Liquid and solid layers in a thermal deep learning machine](https://doi.org/10.1103/twww-yj1y), Phys. Rev. E, 114, 035309 (2026)
+- [Revisiting the Thickness of the Air–Water Interface from Two Extremes of Interface Hydrogen Bond Dynamics](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00457), J. Chem. Theory Comput., 20, 20, 9107 (2024)
 - [A machine learning model to classify dynamic processes
-in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 20, 20, 9107, 2020
-- [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), J. Chem. Phys., 153 (12) 124902, 2020
+in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100599), ChemPhysChem, DOI:10.1002/cphc.202100599, 23, 1, e202100599 (2022)
+- [Neural Network Model for Structure Factor of Polymer Systems](https://aip.scitation.org/doi/full/10.1063/5.0022464), J. Chem. Phys., 153 (12) 124902 (2020)
 
 # Teaching Notes
 - [Statistical Mechanics(2025.9-2026.1)](teaching/statistical_mechanics.md)
