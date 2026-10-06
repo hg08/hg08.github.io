@@ -9,6 +9,7 @@
 
 ## 课件
 - <a href="../_static/pdfs/ai-in-science/0_AI_and_Science.pdf" target="_blank" rel="noopener">[0_AI与科学：背景介绍(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/1_kNN.pdf" target="_blank" rel="noopener">[1_k近邻算法(kNN)(PDF)]</a>
 
 ## 代码
 
