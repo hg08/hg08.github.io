@@ -13,4 +13,5 @@
 ## 代码
 
 - [Pandas Basics(En)](../_static/downloads/ai-in-science/pandas_basics_code.zip)
+- [kNN code(CN)](../_static/downloads/ai-in-science/kNN_code.zip)
 
