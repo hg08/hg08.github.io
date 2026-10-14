@@ -10,9 +10,11 @@
 ## 课件
 - <a href="../_static/pdfs/ai-in-science/0_AI_and_Science.pdf" target="_blank" rel="noopener">[0_AI与科学：背景介绍(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/1_kNN.pdf" target="_blank" rel="noopener">[1_k近邻算法(kNN)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/2_linear_models.pdf" target="_blank" rel="noopener">[2_线性模型(PDF)]</a>
 
 ## 代码
 
 - [Pandas Basics(En)](../_static/downloads/ai-in-science/pandas_basics_code.zip)
 - [kNN code(CN)](../_static/downloads/ai-in-science/kNN_code.zip)
+- [linear_models code(CN)](../_static/downloads/ai-in-science/linear_models_code.zip)
 
