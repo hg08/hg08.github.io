@@ -16,5 +16,5 @@
 
 - [Pandas Basics(En)](../_static/downloads/ai-in-science/pandas_basics_code.zip)
 - [kNN code(CN)](../_static/downloads/ai-in-science/kNN_code.zip)
-- [linear_models code(CN)](../_static/downloads/ai-in-science/linear_models_code.zip)
+- [linear_models code(CN)](../_static/downloads/ai-in-science/Linear_models_code.zip)
 
