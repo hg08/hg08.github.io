@@ -6,7 +6,10 @@
 
 - <a href="../_static/pdfs/ai-in-science/LA_basics.pdf" target="_blank" rel="noopener">[数学基础(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/numpy_basics.pdf" target="_blank" rel="noopener">[NumPy基础(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/Litos2024-PhysRevLett.112.131803-ML.pdf" target="_blank" rel="noopener">[利用决策树寻找罕见粒子衰变(Litos, et. al.)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Balachandran2017-ML.pdf" target="_blank" rel="noopener">[利用决策树寻找破缺反演对称性的功能材料(Balachandran, et. al.)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/Rosser2024-ML.pdf" target="_blank" rel="noopener">[利用ML预测电催化反应性能(Rosser, et. al.)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/ZhuangZX2024-ML.pdf" target="_blank" rel="noopener">[利用ML对电池材料进行分类(Zhuang Z. and Barnard A.)(PDF)]</a>
 
 ## 课件
 - <a href="../_static/pdfs/ai-in-science/0_AI_and_Science.pdf" target="_blank" rel="noopener">[0_AI与科学：背景介绍(PDF)]</a>
