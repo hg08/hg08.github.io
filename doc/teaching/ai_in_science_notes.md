@@ -16,6 +16,7 @@
 - <a href="https://pubs.acs.org/chreay/article-pdf/121/16/9816/4262816/cr1c00107.pdf" target="_blank" rel="noopener">[ML在计算化学中的应用 (Keith,程冰清等)(En)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Trigka.pdf" target="_blank" rel="noopener">[Symmetry-aware machine learning(Trigka and Dritsas)(En)(PDF)]</a>
 - [写读书笔记：extinction risk from AI](./ai_in_science/extinction_risk_from_AI.md)
+- [项目1-3: 利用ML预测材料的性质)](../_static/downloads/ai-in-science/ML_Proj1-3.zip)
 
 
 ## 课件
