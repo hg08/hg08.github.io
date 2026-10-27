@@ -15,6 +15,8 @@
 - <a href="../_static/pdfs/ai-in-science/WanglLe2016i-PhysRevB.94.195105.pdf" target="_blank" rel="noopener">[无监督学习: 利用PCA发现伊辛模型的相变(王磊)(En)(PDF)]</a>
 - <a href="https://pubs.acs.org/chreay/article-pdf/121/16/9816/4262816/cr1c00107.pdf" target="_blank" rel="noopener">[ML在计算化学中的应用 (Keith,程冰清等)(En)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Trigka.pdf" target="_blank" rel="noopener">[Symmetry-aware machine learning(Trigka and Dritsas)(En)(PDF)]</a>
+- [写读书笔记：extinction risk from AI](./ai_in_science/extinction_risk_from_AI.md)
+
 
 ## 课件
 - <a href="../_static/pdfs/ai-in-science/0_AI_and_Science.pdf" target="_blank" rel="noopener">[0_AI与科学：背景介绍(PDF)]</a>
