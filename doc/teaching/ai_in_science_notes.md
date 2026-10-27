@@ -10,6 +10,10 @@
 - <a href="../_static/pdfs/ai-in-science/Balachandran2017-ML.pdf" target="_blank" rel="noopener">[利用决策树寻找破缺反演对称性的功能材料(Balachandran, et. al.)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Rosser2024-ML.pdf" target="_blank" rel="noopener">[利用ML预测电催化反应性能(Rosser, et. al.)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/ZhuangZX2024-ML.pdf" target="_blank" rel="noopener">[利用ML对电池材料进行分类(Zhuang Z. and Barnard A.)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/LiuA2016-nphys.pdf" target="_blank" rel="noopener">[监督学习、支持向量机、结构与动力学 (刘若微(Andrea Liu)等)(En)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/Carrasquilla2017-nphy.pdf" target="_blank" rel="noopener">[利用神经网络识别物理相(Carrasquilla and Melko)(En)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/WanglLe2016i-PhysRevB.94.195105.pdf" target="_blank" rel="noopener">[无监督学习: 利用PCA发现伊辛模型的相变(王磊)(En)(PDF)]</a>
+- <a href="https://pubs.acs.org/chreay/article-pdf/121/16/9816/4262816/cr1c00107.pdf" target="_blank" rel="noopener">[ML在计算化学中的应用 (Keith,程冰清等)(En)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Trigka.pdf" target="_blank" rel="noopener">[Symmetry-aware machine learning(Trigka and Dritsas)(En)(PDF)]</a>
 
 ## 课件
