@@ -24,6 +24,7 @@
 - <a href="../_static/pdfs/ai-in-science/1_kNN.pdf" target="_blank" rel="noopener">[1_k近邻算法(kNN)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/2_linear_models.pdf" target="_blank" rel="noopener">[2_线性模型(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/3_decision_tree.pdf" target="_blank" rel="noopener">[3_决策树算法(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/4_clustering.pdf" target="_blank" rel="noopener">[3_聚类算法(PDF)]</a>
 
 ## 代码
 
