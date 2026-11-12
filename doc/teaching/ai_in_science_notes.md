@@ -17,6 +17,7 @@
 - <a href="https://pubs.acs.org/chreay/article-pdf/121/16/9816/4262816/cr1c00107.pdf" target="_blank" rel="noopener">[ML在计算化学中的应用 (Keith,程冰清等)(En)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Trigka.pdf" target="_blank" rel="noopener">[Symmetry-aware machine learning(Trigka and Dritsas)(En)(PDF)]</a>
 - [写读书笔记：extinction risk from AI](./ai_in_science/extinction_risk_from_AI.md)
+- <a href="../_static/pdfs/ai-in-science/Sittel2014JCP.pdf" target="_blank" rel="noopener">[PCA of MD: On the use of Cartesian vs. internal coordinates (Sittel, Jain, Stock)(En)(PDF)]</a>
 
 
 ## 课件
