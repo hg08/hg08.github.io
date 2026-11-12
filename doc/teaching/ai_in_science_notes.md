@@ -18,6 +18,7 @@
 - <a href="../_static/pdfs/ai-in-science/Trigka.pdf" target="_blank" rel="noopener">[Symmetry-aware machine learning(Trigka and Dritsas)(En)(PDF)]</a>
 - [写读书笔记：extinction risk from AI](./ai_in_science/extinction_risk_from_AI.md)
 - <a href="../_static/pdfs/ai-in-science/Sittel2014JCP.pdf" target="_blank" rel="noopener">[PCA of MD: On the use of Cartesian vs. internal coordinates (Sittel, Jain, Stock)(En)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/Gao2003PLA.pdf" target="_blank" rel="noopener">[PCA of 1/f^alpah noise (Gao, Cao, Lee)(En)(PDF)]</a>
 
 
 ## 课件
