@@ -38,4 +38,5 @@
 - [Decision_tree code(CN)](../_static/downloads/ai-in-science/Decision_tree_code.ipynb)
 - [项目0: AI科学计算环境与Notebook指南](../_static/downloads/ai-in-science/ML_Proj0.zip)
 - [项目1-3: 利用ML预测材料的性质](../_static/downloads/ai-in-science/ML_Proj1-3.zip)
+- [MLP_code(CN)](../_static/downloads/ai-in-science/MLP_code.zip)
 
