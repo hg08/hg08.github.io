@@ -30,6 +30,7 @@
 - <a href="../_static/pdfs/ai-in-science/3_decision_tree.pdf" target="_blank" rel="noopener">[3_决策树算法(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/4_clustering.pdf" target="_blank" rel="noopener">[4_聚类算法(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/5_pca.pdf" target="_blank" rel="noopener">[5_主成分分析(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/6_NN.pdf" target="_blank" rel="noopener">[5_全连接神经网络与训练基础(PDF)]</a>
 
 ## 代码
 
