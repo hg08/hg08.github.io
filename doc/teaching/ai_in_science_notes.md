@@ -20,6 +20,7 @@
 - <a href="../_static/pdfs/ai-in-science/Sittel2014JCP.pdf" target="_blank" rel="noopener">[PCA of MD: On the use of Cartesian vs. internal coordinates (Sittel, Jain, Stock)(En)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Gao2003PLA.pdf" target="_blank" rel="noopener">[PCA of 1/f^alpah noise (Gao, Cao, Lee)(En)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Alex2012.pdf" target="_blank" rel="noopener">[ImageNet Classification with Deep Convolutional Neural Networks (Krizhevsky, Sutskever, Hinton)(En)(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/Ex261119.pdf" target="_blank" rel="noopener">[习题-梯度下降法(中文)(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/Ex261126.pdf" target="_blank" rel="noopener">[习题-ReLU激活函数与权重的初始化)(中文)(PDF)]</a>
 
 
@@ -30,7 +31,7 @@
 - <a href="../_static/pdfs/ai-in-science/3_decision_tree.pdf" target="_blank" rel="noopener">[3_决策树算法(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/4_clustering.pdf" target="_blank" rel="noopener">[4_聚类算法(PDF)]</a>
 - <a href="../_static/pdfs/ai-in-science/5_pca.pdf" target="_blank" rel="noopener">[5_主成分分析(PDF)]</a>
-- <a href="../_static/pdfs/ai-in-science/6_NN.pdf" target="_blank" rel="noopener">[5_全连接神经网络与训练基础(PDF)]</a>
+- <a href="../_static/pdfs/ai-in-science/6_NN.pdf" target="_blank" rel="noopener">[6_全连接神经网络与训练基础(PDF)]</a>
 
 ## 代码
 
