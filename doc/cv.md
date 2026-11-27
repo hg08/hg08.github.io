@@ -51,7 +51,8 @@ in liquid water](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.100
 
 ## Talks
 
-- <a href="./_static/pdfs/talks/26_11_binary_packings.pdf" target="_blank" rel="noopener">[Packing Fraction of Binary Hard Spheres A contact-weighted model tested in two, three, and four dimensions]</a>，2026年堆积问题学术会议，2026.11.14，成都
+- <a href="./_static/pdfs/talks/26_11_binary_packings.pdf" target="_blank" rel="noopener">[Packing Fraction of Binary Hard Spheres A contact-weighted model tested in two, three, and four dimensions]</a>，2026年西南堆积问题学术会议，2026.11.14，成都
+- <a href="./_static/pdfs/talks/2603_poster.pdf" target="_blank" rel="noopener">[Depth-controlled glass transition in DNNs]</a>，Machine Learning Potential fits 2026，2026.3，Bochum, Germany
 - <a href="./_static/pdfs/talks/2025宁波_slides_水界面的氢键动力学.pdf" target="_blank" rel="noopener">[水界面有多厚？从界面氢键动力学计算]</a>，第八届全国统计物理与复杂系统学术会议，2025.8.1，宁波
 - <a href="./_static/pdfs/talks/24_11_28.pdf" target="_blank" rel="noopener">[Simulations of deep neural networks inspired by the replica theory]</a>, Institute of Theoretical Physics, CAS, Beijing, 2024.11
 - <a href="./_static/pdfs/talks/2024_4_postdoc_Depth_controlled_glass_transitions_in_DNNs.pdf" target="_blank" rel="noopener">[Depth-controlled glass transition in deep neural networks]</a>, Institute of Theoretical Physics, CAS, Beijing, 2024.4
